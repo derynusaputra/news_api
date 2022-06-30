@@ -1,6 +1,8 @@
 # newsapi
 
-A new Flutter project.
+Aplikasi ini adalah menampikan berita, dan melihat detail berita. data yang di dapat dari news api.
+
+untuk unit testing nya sudah di cek manual oleh user.
 
 ## Getting Started
 
